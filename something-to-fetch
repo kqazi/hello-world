@@ -3,5 +3,7 @@ Something worth fetching...
 Adding some stuff in new-feature-2-branch!
 Some other new stuff committed to master
 
-
+# resolved conflict from workflow -> develop branch
+Working on my workflow...
 Doing some stuff directly on develop branch.
+
